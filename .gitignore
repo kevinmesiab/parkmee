@@ -2,6 +2,13 @@
 .Idea
 .DS_Store
 
+# Angular Cruft
+src/app/.browserslistrc
+src/app/.editorconfig
+src/app/README.md
+src/app/e2e/
+
+node_modules
 # Binaries for programs and plugins
 *.exe
 *.exe~
