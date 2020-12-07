@@ -1,6 +1,6 @@
-# Parkmee
+# Parkmee.com
 
-## _The Uber of parking - Rent your driveway_
+## _The AirBnb&copy; of parking - Rent your driveway_
 
 www.parkmee.com attempts to create a distributed network of home owners, land owners and parking garage passes to lease thier spaces when not in use.
 
@@ -23,22 +23,17 @@ Clone this repository.
 
 ### Dockerfile
 
-... Insert Docker File info
+Parkmee.com is built directly on the `golang:1.14` image
+https://github.com/mesiablabs/www.parkmee.com/blob/develop/Dockerfile
 
-### docker-compose
+### `docker-compose`
 
-... Insert docker-compose instructions here
-
-### Compile From Source
-
-... Compile instructions
-
-### As a Golang package
-
-Use `go get parkmee`
+Clone this repository.
+1. `npm install`
+2. `docker-compose up`
+4. Connect to http://localhost:8000
 
 ---
-
 ### License
 
 License:
