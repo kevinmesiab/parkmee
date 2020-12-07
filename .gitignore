@@ -1,6 +1,7 @@
 # Ignore editors
 .Idea
 .DS_Store
+.vscode
 
 # Angular Cruft
 src/app/.browserslistrc
