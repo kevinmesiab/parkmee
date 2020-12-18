@@ -1,4 +1,4 @@
-package plots
+package types
 
 import (
 	s2 "github.com/golang/geo/s2"

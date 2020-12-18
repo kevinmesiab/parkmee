@@ -1,6 +1,6 @@
 FROM golang:1.14
 
-WORKDIR /go/src/app
+WORKDIR /go/src
 COPY . .
 
 EXPOSE 8000:8000

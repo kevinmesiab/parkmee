@@ -1,6 +1,6 @@
 # Parkmee.com
 
-## _The AirBnb&copy; of parking - Rent your driveway_
+## _The AirBnb of parking - Rent your driveway_
 
 www.parkmee.com attempts to create a distributed network of home owners, land owners and parking garage passes to lease thier spaces when not in use.
 
